@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\anim\\bottom_down.xml"
+    }
+]
