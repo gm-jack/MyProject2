@@ -20,12 +20,12 @@
         "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\drawable\\button_close_normal.png"
     },
     {
-        "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
-        "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\drawable\\icon_plus_normal.png"
-    },
-    {
         "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.png",
         "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
+        "source": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\src\\main\\res\\drawable\\icon_plus_normal.png"
     },
     {
         "merged": "C:\\Users\\yxy\\Desktop\\MyProject2\\Vuforia-app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_01.png",
